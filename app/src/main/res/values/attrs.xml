@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RectangleView">
+        <attr name="mRoanding" format="float" />
+        <attr name="mStrokeWidth" format="float" />
+        <attr name="mColorStroke" format="color" />
+        // толщина линии
+        // цвет линии
+        // радиус скругления
+    </declare-styleable>
+
+    <declare-styleable name="CustomLinearLayout">
+        <attr name="custom_component_title" format="reference" />
+    </declare-styleable>
+
+</resources>
